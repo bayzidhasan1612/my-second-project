@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* shared style */
+.font-work-sans {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+/* main style */
+/* section style */
+
+.hero-container{
+    background-color: blue;
+    width: 100%;
+    max-width: 1630px;
+    height: 808px;
+    background: url("../new-year-new-me/images/banner/banner1.png");
+}
+.highlight h1{
+    font-size: 65px;
+    font-weight: bold;
+    color: #151414;
+    margin: 216px 230px 364px 845px;
+}
